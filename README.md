@@ -1,4 +1,4 @@
-\# DIO |  Git e GitHub
+# DIO |  Git e GitHub
 
 
 
@@ -8,17 +8,17 @@ Repositório para armazenar atividades e resumo de git e github do curso de Vers
 
 
 
-\## 📒Documentação
+## 📒Documentação
 
-\- \[Documentação Git](https://git-scm.com/docs/git/pt\_BR)
-
-
-
-\- \[Documentação GitHub](https://docs.github.com/pt)
+- \[Documentação Git](https://git-scm.com/docs/git/pt\_BR)
 
 
 
-\## 💻Resumos das aulas
+- \[Documentação GitHub](https://docs.github.com/pt)
+
+
+
+## 💻Resumos das aulas
 
 
 
@@ -34,7 +34,7 @@ Repositório para armazenar atividades e resumo de git e github do curso de Vers
 
 
 
-\## 📖Codigos Aprendidos
+## 📖Codigos Aprendidos
 
 ```
 
@@ -58,11 +58,11 @@ $git branch
 
 
 
-\## 🔍Referências
+## 🔍Referências
 
-\[Digital Inovation One](https://www.dio.me)
+[Digital Inovation One](https://www.dio.me)
 
 
 
-\[GitHub Search code](https://github.com/features/code-search?locale=pt-br)
+[GitHub Search code](https://github.com/features/code-search?locale=pt-br)
 
