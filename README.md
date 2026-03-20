@@ -1,4 +1,4 @@
-\# DIO |  Git e GitHub.
+\# DIO |  Git e GitHub
 
 
 
